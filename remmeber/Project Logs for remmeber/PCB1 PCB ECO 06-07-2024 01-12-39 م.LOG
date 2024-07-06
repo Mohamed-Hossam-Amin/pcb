@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Added Pin To Net: NetName=postive terminal Pin=R1-2
+Add Pin To Net: Unknown Pin: Pin TIMER IC-1
+Add Pin To Net: Unknown Pin: Pin TIMER IC-2
+Add Pin To Net: Unknown Pin: Pin TIMER IC-3
+Add Pin To Net: Unknown Pin: Pin TIMER IC-5
+Add Pin To Net: Unknown Pin: Pin TIMER IC-6
+Add Pin To Net: Unknown Pin: Pin TIMER IC-7
+Add Pin To Net: Unknown Pin: Pin TIMER IC-8
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Res1
+Add Class Member: Failed to add class member : Component TIMER IC 555
