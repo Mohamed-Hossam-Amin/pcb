@@ -1,0 +1,9 @@
+Added Component: Designator=*(MPU)
+Add component (AddParameter): Name = "Parameter 1"; Value = "mpu"; VariantName = "[No Variations]"
+Added Component: Designator=1(Arduino ieee)
+Add component (AddParameter): Name = "Parameter 1"; Value = "ARDUINO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net1_29 Pin=1-29
+Added Pin To Net: NetName=Net1_29 Pin=*-2
+Added Net: Name=Net1_29
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
